@@ -1,6 +1,6 @@
 {
   "name": "clean-code-journal",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A web-based journal application emphasizing clean code principles.",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "express": "^4.18.2",
-    "mongoose": "^6.5.0",
+    "mongoose": "^7.0.0",
     "cors": "^2.8.5"
   },
   "devDependencies": {
