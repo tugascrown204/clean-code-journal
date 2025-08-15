@@ -1,7 +1,7 @@
 {
   "name": "clean-code-journal",
   "version": "1.0.3",
-  "description": "A web-based journal application emphasizing clean code principles.",
+  "description": "A web-based journal application that focuses on clean code principles and practices.",
   "main": "index.js",
   "scripts": {
     "start": "node src/server.js",
