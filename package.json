@@ -1,6 +1,6 @@
 {
   "name": "clean-code-journal",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A web-based journal application emphasizing clean code principles.",
   "main": "index.js",
   "scripts": {
