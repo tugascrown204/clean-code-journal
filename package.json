@@ -1,0 +1,20 @@
+{
+  "name": "clean-code-journal",
+  "version": "1.0.0",
+  "description": "A web-based journal application emphasizing clean code principles.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "jest"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.12.3",
+    "cors": "^2.8.5"
+  },
+  "devDependencies": {
+    "jest": "^26.6.0",
+    "supertest": "^6.1.0"
+  },
+  "license": "MIT"
+}
