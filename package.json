@@ -16,5 +16,9 @@
     "jest": "^27.5.1",
     "supertest": "^6.3.3"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/clean-code-journal.git"
+  }
 }
