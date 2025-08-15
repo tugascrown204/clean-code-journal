@@ -1,11 +1,12 @@
 {
   "name": "clean-code-journal",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A web-based journal application emphasizing clean code principles.",
   "main": "index.js",
   "scripts": {
     "start": "node src/server.js",
-    "test": "jest"
+    "test": "jest",
+    "npm-audit": "npm audit"
   },
   "dependencies": {
     "express": "^4.18.2",
